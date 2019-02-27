@@ -1,0 +1,8 @@
+Metrics file is run to evaluate
+
+-safety
+-spread of workload
+- route efficiency
+-how convergent our traffic is
+-spread of the aircraft (how well dispersed over secotrs)
+-route efficiency: the original distance/ actual flown route
