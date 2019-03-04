@@ -1,0 +1,10 @@
+Route:
+	Example for Rotterdam (EHRD) arrival route number 1 --> RDA1
+	Example for Amsterdam (EHAM) departure route 7 --> AMD7
+
+Sector:
+	Rotterdam
+	Amsterdam etc.
+Waypoint:
+	Example for a point near Ridderkerk at lat lon 51.874191 4.570331, give it a short but recogniseable name here: rid was chosen.
+
