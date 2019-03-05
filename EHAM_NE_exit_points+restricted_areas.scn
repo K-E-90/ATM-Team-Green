@@ -1,0 +1,59 @@
+00:00:00.00>circle schiphol 52.308811 4.76561 15
+00:00:00.00>defwpt START 52.364028 4.780141 
+
+00:00:00.00>polyline exitroute1 START KOLAG
+00:00:00.00>color exitroute1 yellow
+
+00:00:00.00>polyline exitroute2 START XAMAN
+00:00:00.00>color exitroute2 yellow
+
+00:00:00.00>polyline exitroute3 START WOODY
+00:00:00.00>color exitroute3 yellow
+
+00:00:00.00>polyline exitroute4 START LUTOM
+00:00:00.00>color exitroute4 yellow
+
+00:00:00.00>polyline exitroute5 START OSGOS
+00:00:00.00>color exitroute5 yellow
+
+00:00:00.00>polyline exitroute6 START TEBRO
+00:00:00.00>color exitroute6 yellow
+
+00:00:00.00>polyline exitroute7 START DOBAK
+00:00:00.00>color exitroute7 yellow
+
+00:00:00.00>polyline exitroute8 START AGISU
+00:00:00.00>color exitroute8 yellow
+
+00:00:00.00>polyline exitroute9 START KONOM
+00:00:00.00>color exitroute9 yellow
+
+
+00:00:00.00>poly tweedekamer 52.061944 4.305556  52.088056 4.274167  52.099536 4.299675  52.10735 4.277469  52.119717 4.301408  52.113256  4.330192  52.143333 4.397222  52.126944 4.441667  52.106944 4.405556
+00:00:00.00>color tweedekamer red
+
+00:00:00.00>poly paleis 52.185556 5.208333 52.206111 5.2875 52.189167 5.298889  52.169167 5.219722
+00:00:00.00>color paleis red
+
+00:00:00.00>poly restricted1 52.155556 5.733333 52.191667 5.783333 52.158333 5.880556  52.125 5.880556  52.111111 5.7625
+00:00:00.00>color restricted1 red
+
+00:00:00.00>poly restricted2 52.3583333 5.875 52.383333 5.833333 52.45 6 52.4083333 6.016667
+00:00:00.00>color restricted2 red
+
+00:00:00.00>poly restricted3 53.433889 6.331944  53.4025 6.335556 53.400833 6.254444  53.411389 6.235833  53.425833 6.248889
+00:00:00.00>color restricted3 red
+
+00:00:00.00>poly restricted4 52.775 4.433333 52.816667 4.35 53.0833333 4.35 53.102778 4.515556 53.049722 4.679444  52.961667 4.740278 52.866667 4.716667 52.75 4.533333
+00:00:00.00>color restricted4 red
+
+00:00:00.00>poly restricted5 53.083333 4.3  53.083333 3.616667  53.216667 3.616667 53.218309,4.302852
+00:00:00.00>color restricted5 red
+
+00:00:00.00>defwpt TEST1 52.363803 4.712329
+00:00:00.00>defwpt TEST2 52.547717 4.883751
+00:00:00.00>defwpt TEST3 52.526842 4.964942
+00:00:00.00>defwpt TEST4 52.468251 5.079796
+00:00:00.00>polyline test_rte1 TEST1 PEVOS TEST2
+00:00:00.00>polyline test_rte2 PEVOS TEST3
+00:00:00.00>polyline test_rte3 PEVOS TEST4
