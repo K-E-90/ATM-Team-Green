@@ -1,0 +1,64 @@
+00:00:00.00>circle schiphol 52.308811,4.76561 15
+00:00:00.00>defwpt NIV 52.225460 4.612695
+00:00:00.00>defwpt LEI 52.216135 4.674930
+00:00:00.00>defwpt ALP 52.127325 4.725199
+00:00:00.00>defwpt HIL 52.254496 5.015443
+00:00:00.00>defwpt MIJ 52.213622 4.873969
+00:00:00.00>defwpt ALM 52.312434 5.047032
+00:00:00.00>defwpt ASr303 52.063159,4.73575
+00:00:00.00>defwpt ASr206 52.487459,5.039193
+00:00:00.00>defwpt ASr104 52.21311,5.136557
+00:00:00.00>defwpt ASr402 52.261255,4.367666
+
+00:00:00.00>polyline ASR1 NIV LEI MIJ ASr104
+00:00:00.00>polyline ASR2 NIV LEI MIJ HIL ALM ASr206
+00:00:00.00>polyline ASR3 NIV LEI ALP ASr303
+00:00:00.00>polyline ASR4 NIV ASr402
+
+00:00:00.00>polyline exitroute1 NIV KOLAG
+00:00:00.00>color exitroute1 yellow
+
+00:00:00.00>polyline exitroute2 NIV XAMAN
+00:00:00.00>color exitroute2 yellow
+
+00:00:00.00>polyline exitroute3 NIV WOODY
+00:00:00.00>color exitroute3 yellow
+
+00:00:00.00>polyline exitroute4 NIV LUTOM
+00:00:00.00>color exitroute4 yellow
+
+00:00:00.00>polyline exitroute5 NIV OSGOS
+00:00:00.00>color exitroute5 yellow
+
+00:00:00.00>polyline exitroute6 NIV TEBRO
+00:00:00.00>color exitroute6 yellow
+
+00:00:00.00>polyline exitroute7 NIV DOBAK
+00:00:00.00>color exitroute7 yellow
+
+00:00:00.00>polyline exitroute8 NIV AGISU
+00:00:00.00>color exitroute8 yellow
+
+00:00:00.00>polyline exitroute9 NIV KONOM
+00:00:00.00>color exitroute9 yellow
+
+00:00:00.00>poly tweedekamer 52.061944 4.305556  52.088056 4.274167  52.099536 4.299675  52.10735 4.277469  52.119717 4.301408  52.113256  4.330192  52.143333 4.397222  52.126944 4.441667  52.106944 4.405556
+00:00:00.00>color tweedekamer red
+
+00:00:00.00>poly paleis 52.185556 5.208333 52.206111 5.2875 52.189167 5.298889  52.169167 5.219722
+00:00:00.00>color paleis red
+
+00:00:00.00>poly restricted1 52.155556 5.733333 52.191667 5.783333 52.158333 5.880556  52.125 5.880556  52.111111 5.7625
+00:00:00.00>color restricted1 red
+
+00:00:00.00>poly restricted2 52.3583333 5.875 52.383333 5.833333 52.45 6 52.4083333 6.016667
+00:00:00.00>color restricted2 red
+
+00:00:00.00>poly restricted3 53.433889 6.331944  53.4025 6.335556 53.400833 6.254444  53.411389 6.235833  53.425833 6.248889
+00:00:00.00>color restricted3 red
+
+00:00:00.00>poly restricted4 52.775 4.433333 52.816667 4.35 53.0833333 4.35 53.102778 4.515556 53.049722 4.679444  52.961667 4.740278 52.866667 4.716667 52.75 4.533333
+00:00:00.00>color restricted4 red
+
+00:00:00.00>poly restricted5 53.083333 4.3  53.083333 3.616667  53.216667 3.616667 53.218309,4.302852
+00:00:00.00>color restricted5 red
