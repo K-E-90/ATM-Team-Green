@@ -1,0 +1,40 @@
+#IMPORTANT: look at the example as a guide (capital letters should stay the same)
+#	
+#	always use spaces and never tabs	
+#	
+#	HEADING WARNING:
+#		Heading ranges can never go from big to small. 
+#		In order to complete the circle use 360 instead of 0.
+#		Don't use 359.999 instead of 360.
+#
+#EXAMPLE FLIGHT ASSIGNMENT
+#WIND direction & DEST/ORIG airport & HDG hdg1-hdg2 -> route1
+#WIND direction & DEST/ORIG airport & HDG hdg2-hdg3 -> route2
+#WIND direction & DEST/ORIG airport & HDG hdg3-hdg4 -> route3
+#WIND direction & DEST/ORIG airport & HDG hdg4-hdg5 -> route4
+
+
+
+#	EHAM FLIGHT ASSIGNMENT
+#		FLIGHTS TO EHAM
+WIND NE & DEST EHAM & HDG 000-090 -> AMAN4
+WIND NE & DEST EHAM & HDG 090-180 -> AMAN2
+WIND NE & DEST EHAM & HDG 180-270 -> AMAN1
+WIND NE & DEST EHAM & HDG 270-360 -> AMAN5
+
+#WIND SW & DEST EHAM & HDG 000-090 -> AMAN4
+#WIND SW & DEST EHAM & HDG 090-180 -> AMAN2
+#WIND SW & DEST EHAM & HDG 180-270 -> AMAN1
+#WIND SW & DEST EHAM & HDG 270-360 -> AMAN5
+
+#		FLIGHTS FROM EHAM
+WIND NE & ORIG EHAM & HDG 000-090 -> AMDN4
+WIND NE & ORIG EHAM & HDG 090-180 -> AMDN2
+WIND NE & ORIG EHAM & HDG 180-270 -> AMDN1
+WIND NE & ORIG EHAM & HDG 270-360 -> AMDN5
+
+#WIND SW & ORIG EHAM & HDG 000-090 -> AMAN4
+#WIND SW & ORIG EHAM & HDG 090-180 -> AMAN2
+#WIND SW & ORIG EHAM & HDG 180-270 -> AMAN1
+#WIND SW & ORIG EHAM & HDG 270-360 -> AMAN5
+
