@@ -75,7 +75,7 @@
 00:00:00.00>polyline ADR3 EH001 AD301
 00:00:00.00>color ADR3 white
 
-# Route directed to LUTOM
+# Route directed to OSGOS
 00:00:00.00>polyline ADR4 EH001 AD401
 00:00:00.00>color ADR4 white
 
