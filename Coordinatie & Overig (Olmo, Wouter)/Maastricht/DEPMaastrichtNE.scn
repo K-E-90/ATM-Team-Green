@@ -1,0 +1,23 @@
+00:00:00.00>circle MST 50.912172,5.769985 11.188654
+
+00:00:00.00>defwpt mst1ne1 50.912329,5.83267
+00:00:00.00>defwpt mst1ne2 50.878688,5.831938
+00:00:00.00>defwpt mst1ne3  50.824878,5.827672
+00:00:00.00>defwpt mst1ne4 50.729275,5.824203
+00:00:00.00>polyline mstLNO EHBK EH315 EH322 mst1ne1 mst1ne2 mst1ne3 mst1ne4 
+
+00:00:00.00>defwpt mst2ne1 50.913887,5.88465
+00:00:00.00>defwpt mst2ne2 50.883014,5.941248
+00:00:00.00>defwpt mst2ne3  50.825401,6.029418
+00:00:00.00>polyline mstNVO EHBK EH315 mst2ne1 mst2ne2 mst2ne3
+
+00:00:00.00>defwpt mst3ne1 50.964516,5.821903
+00:00:00.00>defwpt mst3ne2 51.008396,5.838512
+00:00:00.00>defwpt mst3ne3 51.04802,5.846143
+00:00:00.00>defwpt mst3ne4 51.087733,5.870048
+00:00:00.00>polyline mstPIMIP EHBK EH315 mst3ne1 mst3ne2 mst3ne3 mst3ne4
+
+00:00:00.00>defwpt mst4ne1  50.958295,5.868693
+00:00:00.00>defwpt mst4ne2 50.997919,5.947487
+00:00:00.00>defwpt mst4ne3 51.030251,5.999243
+00:00:00.00>polyline mstSOPVI EHBK EH315 mst4ne1 mst4ne2 mst4ne3
