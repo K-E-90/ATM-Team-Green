@@ -5,24 +5,24 @@
 
 
 # Direct routes to the exit waypoints of the Dutch Airspace
-00:00:00.00>polyline exitroute1 EH001 KOLAG
-00:00:00.00>color exitroute1 178, 102, 255
-00:00:00.00>polyline exitroute2 EH001 XAMAN
-00:00:00.00>color exitroute2 178, 102, 255
-00:00:00.00>polyline exitroute3 EH001 WOODY
-00:00:00.00>color exitroute3 178, 102, 255
-00:00:00.00>polyline exitroute4 EH001 LUTOM
-00:00:00.00>color exitroute4 178, 102, 255
-00:00:00.00>polyline exitroute5 EH001 OSGOS
-00:00:00.00>color exitroute5 178, 102, 255
-00:00:00.00>polyline exitroute6 EH001 TEBRO
-00:00:00.00>color exitroute6 178, 102, 255
-00:00:00.00>polyline exitroute7 EH001 DOBAK
-00:00:00.00>color exitroute7 178, 102, 255
-00:00:00.00>polyline exitroute8 EH001 AGISU
-00:00:00.00>color exitroute8 178, 102, 255
-00:00:00.00>polyline exitroute9 EH001 KONOM
-00:00:00.00>color exitroute9 178, 102, 255
+#00:00:00.00>polyline exitroute1 EH001 KOLAG
+#00:00:00.00>color exitroute1 178, 102, 255
+#00:00:00.00>polyline exitroute2 EH001 XAMAN
+#00:00:00.00>color exitroute2 178, 102, 255
+#00:00:00.00>polyline exitroute3 EH001 WOODY
+#00:00:00.00>color exitroute3 178, 102, 255
+#00:00:00.00>polyline exitroute4 EH001 LUTOM
+#00:00:00.00>color exitroute4 178, 102, 255
+#00:00:00.00>polyline exitroute5 EH001 OSGOS
+#00:00:00.00>color exitroute5 178, 102, 255
+#00:00:00.00>polyline exitroute6 EH001 TEBRO
+#00:00:00.00>color exitroute6 178, 102, 255
+#00:00:00.00>polyline exitroute7 EH001 DOBAK
+#00:00:00.00>color exitroute7 178, 102, 255
+#00:00:00.00>polyline exitroute8 EH001 AGISU
+#00:00:00.00>color exitroute8 178, 102, 255
+#00:00:00.00>polyline exitroute9 EH001 KONOM
+#00:00:00.00>color exitroute9 178, 102, 255
 
 
 # Creation of the restricted areas
@@ -64,35 +64,35 @@
 
 # SID'S for EHAM
 # Route directed to DOBAK
-00:00:00.00>polyline ADR1 EH001 AD101 AD102 AD103 AD104 AD105
+00:00:00.00>polyline ADR1 EH001 AD101 AD102 AD103 AD104 AD105 DOBAK
 00:00:00.00>color ADR1 white
 
 # Route directed to WOODY
-00:00:00.00>polyline ADR2 EH001 AD201
+00:00:00.00>polyline ADR2 EH001 AD201 WOODY 
 00:00:00.00>color ADR2 white
 
 # Route directed to LUTOM
-00:00:00.00>polyline ADR3 EH001 AD301
+00:00:00.00>polyline ADR3 EH001 AD301 LUTOM
 00:00:00.00>color ADR3 white
 
 # Route directed to OSGOS
-00:00:00.00>polyline ADR4 EH001 AD401
+00:00:00.00>polyline ADR4 EH001 AD401 OSGOS
 00:00:00.00>color ADR4 white
 
 # Route directed to TEBRO
-00:00:00.00>polyline ADR5 EH001 AD501 AD502 AD503  
+00:00:00.00>polyline ADR5 EH001 AD501 AD502 AD503 TEBRO  
 00:00:00.00>color ADR5 white
 
 # Route directed to XAMAN
-00:00:00.00>polyline ADR6 EH001 AD601
+00:00:00.00>polyline ADR6 EH001 AD601 XAMAN
 00:00:00.00>color ADR6 white
 
 # Route directed to KOLAG
-00:00:00.00>polyline ADR7 EH001 AD701
+00:00:00.00>polyline ADR7 EH001 AD701 KOLAG
 00:00:00.00>color ADR7 white
 
 # Route directed to SPY
-00:00:00.00>polyline ADR8 EH001 EH049 EH057 SPY
+00:00:00.00>polyline ADR8 EH001 EH049 EH057 SPY ANDIK
 00:00:00.00>color ADR8 white
 
 #----Assist file-----
