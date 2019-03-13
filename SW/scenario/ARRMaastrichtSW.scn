@@ -1,0 +1,15 @@
+00:00:00.00>circle MST 50.913313,5.770822 11.184446
+
+00:00:00.00>defwpt mst1sw1 51.083265,5.893282
+00:00:00.00>polyline mstSOPVI mst1sw1 nw EHBK
+
+00:00:00.00>defwpt mst2sw1 50.728238,5.781863
+00:00:00.00>defwpt mst2sw2 50.858049,5.841856
+00:00:00.00>defwpt mst2sw3 50.937369,5.895746
+00:00:00.00>defwpt mst2sw4 51.000573,5.936597
+00:00:00.00>defwpt mst2sw5 51.029382,5.9234
+00:00:00.00>polyline mstLNO mst2sw1 mst2sw2 mst2sw3 mst2sw4 mst2sw5 nw ehbk
+
+00:00:00.00>defwpt mst3sw1 50.982685,6.044779
+00:00:00.00>polyline mstNVO mst3sw1 mst2sw5 nw ehbk
+bluke
