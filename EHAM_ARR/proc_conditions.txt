@@ -1,0 +1,46 @@
+#IMPORTANT: look at the example as a guide (capital letters should stay the same)
+#	
+#	always use spaces and never tabs	
+#	
+#	HEADING WARNING:
+#		Heading ranges can never go from big to small. 
+#		In order to complete the circle use 360 instead of 0.
+#		Don't use 359.999 instead of 360.
+#
+#EXAMPLE FLIGHT ASSIGNMENT
+#WIND direction & DEST/ORIG airport & HDG hdg1-hdg2 -> route1
+#WIND direction & DEST/ORIG airport & HDG hdg2-hdg3 -> route2
+#WIND direction & DEST/ORIG airport & HDG hdg3-hdg4 -> route3
+#WIND direction & DEST/ORIG airport & HDG hdg4-hdg5 -> route4
+
+
+
+#	EHAM FLIGHT ASSIGNMENT
+#WIND NE & ORIG EHAM & DIR 90-360 -> ADR2_36
+#WIND NE & ORIG EHAM & DIR 0-90 -> AD5_9
+
+
+WIND SW & DEST EHAM & DIR 000-040 -> AMA1_SW
+WIND SW & DEST EHAM & DIR 040-120 -> AMA4_SW
+WIND SW & DEST EHAM & DIR 120-180 -> AMA5_SW
+WIND SW & DEST EHAM & DIR 180-250 -> AMA2_SW
+WIND SW & DEST EHAM & DIR 250-320 -> AMA3_SW
+WIND SW & DEST EHAM & DIR 320-000 -> AMA1_SW
+
+
+
+WIND SW & DEST EHAM & DIR 000-040 -> EHAM_ARR_000B
+
+#WIND SW & DEST EHAM & DIR 040-120 -> AMA4_SW !!!NO ROUTE YET!!!
+
+WIND SW & DEST EHAM & DIR 120-180 -> EHAM_ARR_120A
+
+WIND SW & DEST EHAM & DIR 180-215 -> EHAM_ARR_230B
+WIND SW & DEST EHAM & DIR 215-250 -> EHAM_ARR_230A
+
+WIND SW & DEST EHAM & DIR 250-283 -> EHAM_ARR_330C
+WIND SW & DEST EHAM & DIR 283-296 -> EHAM_ARR_330B
+WIND SW & DEST EHAM & DIR 296-320 -> EHAM_ARR_330A
+
+WIND SW & DEST EHAM & DIR 320-000 -> EHAM_ARR_000B
+
