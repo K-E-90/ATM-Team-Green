@@ -1,6 +1,7 @@
 00:00:00.00>CIRCLE SPAWN,52.6,5.4,230.0
 
 00:00:00.00>pcall EHLE_SW_assistsw
+00:00:00.00>pcall EHKD_SW_assistsw
 00:00:00.00>pcall EHEH_SW_assistantfile
 00:00:00.00>pcall EHBK_SW_assistantfile
 00:00:00.00>pcall scenarioGroningenSW
