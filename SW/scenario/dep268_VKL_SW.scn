@@ -1,5 +1,5 @@
 00:00:00.00>%0 addwpt VKL03
 00:00:00.00>%0 addwpt VKL69
-00:00:00.00>%0 addwpt WPT6
-00:00:00.00>%0 addwpt HSD
-00:00:00.00>%0 addwpt WPT268
+00:00:00.00>%0 addwpt WPT6,12000
+00:00:00.00>%0 addwpt HSD,12000
+00:00:00.00>%0 addwpt WPT268,12000
