@@ -1,8 +1,8 @@
-00:00:00.00>%0 addwpt PENIM
-00:00:00.00>%0 addwpt LWD60
-00:00:00.00>%0 addwpt EH521
-00:00:00.00>%0 addwpt RKN24
-00:00:00.00>%0 addwpt DNA
+00:00:00.00>%0 addwpt PENIM, 12000
+00:00:00.00>%0 addwpt LWD60, 12000
+00:00:00.00>%0 addwpt EH521, 12000
+00:00:00.00>%0 addwpt RKN24, 12000
+00:00:00.00>%0 addwpt DNA, 12000
 00:00:00.00>%0 addwpt VKL07
 00:00:00.00>%0 addwpt VKL05
 00:00:00.00>%0 addwpt VKL00
