@@ -1,3 +1,4 @@
+00:00:00.00>%0 spd 250
 00:00:00.00>%0 addwpt NAVPI
 00:00:00.00>%0 addwpt NAVP1
 00:00:00.00>%0 addwpt NAVP2
@@ -7,6 +8,8 @@
 00:00:00.00>%0 addwpt NAVP6
 00:00:00.00>%0 addwpt NAVP7
 00:00:00.00>%0 addwpt NAVP8
+00:00:00.00>%0 addwpt NAVP9
+00:00:00.00>%0 addwpt NAVP10
 00:00:00.00>%0 addwpt MOLIX_EHAM 
 00:00:00.00>%0 addwpt KOLAG_EHAM 
 00:00:00.00>%0 addwpt AMA31
