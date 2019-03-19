@@ -4,13 +4,13 @@
 00:00:00.00>pcall EHLE_SW_assistsw
 00:00:01.00>pcall EHEH_SW_assistantfile
 00:00:02.00>pcall EHBK_SW_assistantfile
-00:00:03.00>pcall hooogeveen
+00:00:03.00>pcall hoogeveen
 00:00:04.00>pcall scenarioGroningenSW
 00:00:05.00>pcall rotterdam
 00:00:06.00>pcall RDassistSW
 00:00:07.00>pcall EHAM_ARR_SW
-00:00:08.00>pcall EHAM_SW_D
-00:00:09.00>pcall NAT_EHAM_ARR_SW
+00:00:08.00>pcall NAT_EHAM_ARR_SW
+00:00:09.00>pcall EHAM_SW_D
 00:00:10.00>pcall EHAM_ARR_SW_Assist
 00:00:11.00>pcall EHAM_SW_assistsw
 00:00:12.00>pcall EHKD_SW_assistsw
