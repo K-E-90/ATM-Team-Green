@@ -1,3 +1,7 @@
 00:00:00.00>%0 addwpt LEYSIDSW
-00:00:00.00>%0 addwpt BARNE_K
-00:00:00.00>%0 addwpt SOPVI
+00:00:00.00>%0 addwpt BARNE_K,12000
+00:00:00.00>%0 addwpt SOPVI,12000
+00:00:00.00>%0 addwpt MSTA1SW1
+00:00:00.00>%0 addwpt BKN06
+00:00:00.00>%0 addwpt BKN
+00:00:00.00>%0 addwpt EHBK
