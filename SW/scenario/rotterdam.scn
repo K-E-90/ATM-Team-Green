@@ -74,3 +74,6 @@
 00:00:00.00>polyline rd5NEF redfa rd5NE1 rd5NE2 rd5NE3 rd5NE4 rd5NE5 rd5NE6 RTM49
 00:00:00.00>color rd5NEF yellow
 00:00:00.00>color rd5SWF white
+
+00:00:00.00>polyline rinis Rinis rd5sw1
+00:00:00.00>color rinis white
