@@ -1,3 +1,4 @@
+00:00:00.00>%0 VNAV OFF
 00:00:00.00>%0 addwpt NAVPI 
 00:00:00.00>%0 addwpt MOLIX_EHAM 
 00:00:00.00>%0 addwpt KOLAG_EHAM 
